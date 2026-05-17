@@ -2,7 +2,7 @@
 name: Bug — poprawka błędu
 about: Użyj tego szablonu do opisania błędu lub elementu wymagającego korekty.
 title: ''
-labels: 'typ: bug'
+labels: 'type: bug'
 assignees: ''
 ---
  
