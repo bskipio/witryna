@@ -3,7 +3,7 @@
 **Grupa nasza projektowa**
 - Piotr Brzeziński (kierownik zespołu) 
 - Dominik Lewandowski
-- Mateusz Kopyt
+- Mateusz Kopyt TEST
 - Konrad Gościniak
 - Mikołaj Walczak
 
