@@ -1,8 +1,8 @@
 # Praca w zespole
 ## Witryna ćwiczeniowa
 **Grupa nasza projektowa**
-- Dominik Lewandowski (kierownik zespołu)
-- Piotr Brzeziński
+- Piotr Brzeziński (kierownik zespołu) 
+- Dominik Lewandowski
 - Mateusz Kopyt
 - Konrad Gościniak
 - Mikołaj Walczak
